@@ -1,0 +1,40 @@
+[
+    {
+        "name": "1",
+        "type": "directory"
+    },
+    {
+        "name": "2",
+        "type": "directory"
+    },
+    {
+        "name": "lec",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "lec",
+        "extension": ".txt",
+        "type": "file"
+    },
+    {
+        "name": "4564",
+        "extension": ".exe",
+        "type": "file"
+    },
+    {
+        "name": "hi",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "text",
+        "extension": ".txt",
+        "type": "file"
+    },
+    {
+        "name": "text2",
+        "extension": ".bin",
+        "type": "file"
+    }
+]
